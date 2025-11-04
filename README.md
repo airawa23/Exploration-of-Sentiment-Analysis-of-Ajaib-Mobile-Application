@@ -26,6 +26,8 @@ https://www.researchgate.net/publication/324626996_Sentiment_Analysis_Using_Lexi
 
 - **Pelabelan**: Untuk membuat label target (Sentiment_Rating_Label), kami mengadopsi skema klasifikasi Biner dari Rating:
 
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/4b052eba-4a58-4aa5-9997-b5391dde73e0" />
+
   - Positif: Rating 4 & 5.
   - Negatif: Rating 1, 2, & 3.
   - Justifikasi: Menggabungkan Rating 3 (Netral) ke Negatif dilakukan untuk menyederhanakan tugas dan mengatasi masalah imbalance pada kelas minoritas, dengan asumsi rating di bawah 4 merefleksikan ketidakpuasan atau masalah.
